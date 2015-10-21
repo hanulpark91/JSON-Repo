@@ -4,14 +4,15 @@
  "children": [
   {
    "name": "Anna Graham",
+   "id": "00361000005eJeJ",
    "children": [
     {
-     "name": "cluster",
+     "name": "Donna Hu",
+     "id": "00361000005eJeO",
      "children": [
-      {"name": "AgglomerativeCluster", "size": 3938},
-      {"name": "CommunityStructure", "size": 3812},
-      {"name": "HierarchicalCluster", "size": 6714},
-      {"name": "MergeEdge", "size": 743}
+      {
+        "name": "Julie Hasten", 
+        "id": "00361000005eJfC"}
      ]
     },
     {
