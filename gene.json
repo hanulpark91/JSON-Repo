@@ -1,32 +1,65 @@
 {
 	"name": "Jamie Boyle",
 	"orgId": "00361000005x2bc",
+	"points": 1900,
+	"goal": 2000,
 	"children": [
 	{
 		"name": "Anna Graham",
 		"orgId": "00361000005eJeJ",
+		"points": 1200,
+		"goal": 1200,
 		"children": [
 		{
 			"name": "Donna Hu",
 			"orgId": "00361000005eJeO",
+			"points": 900,
+			"goal": 850,
 			"children": [
-				{"name": "Julie Hasten", "orgId": "00361000005eJfC"}
+				{
+					"name": "Julie Hasten",
+					"orgId": "00361000005eJfC",
+					"points": 500,
+					"goal": 300
+				}
 			]
 		},
 		{
 			"name": "Danielle White",
 			"orgId": "123",
+			"points": 500,
+			"goal": 300,
 			"children": [
-				{"name": "Carol Smith","orgId": "123"},
-				{"name": "Judy Miller","orgId": "123"},
-				{"name": "Mary Jane","orgId": "123"}
+				{
+					"name": "Carol Smith",
+					"orgId": "123",
+					"points": 500,
+					"goal": 300},
+				{
+					"name": "Judy Miller",
+					"orgId": "123",
+					"points": 500,
+					"goal": 300},
+				{
+					"name": "Mary Jane",
+					"orgId": "123",
+					"points": 500,
+					"goal": 300
+				}
 			]
 		},
 		{
 			"name": "Gwen Stacy", 
 			"orgId": "123",
+			"points": 500,
+			"goal": 300,
 			"children": [
-			{"name": "Stephanie Troy", "orgId": "123"}
+			{
+				"name": "Stephanie Troy", 
+				"orgId": "123",
+				"points": 500,
+				"goal": 300
+			}
 			]
 		}
 		]
@@ -34,22 +67,77 @@
 	{
 		"name": "Ellis John",
 		"orgId": "123",
+		"points": 500,
+		"goal": 300,
 		"children": [
-		{"name": "Easing", "size": 17010},
-		{"name": "FunctionSequence", "size": 5842},
+		{
+			"name": "Easing",
+			"size": 17010,
+			"points": 500,
+			"goal": 300
+		},
+		{
+			"name": "FunctionSequence",
+			"orgId": "125125",
+			"points": 500,
+			"goal": 300,
+		},
 		{
 			"name": "interpolate",
+			"orgId": "125125",
+			"points": 500,
+			"goal": 300,
 			"children": [
-				{"name": "ArrayInterpolator", "size": 1983},
-				{"name": "ColorInterpolator", "size": 2047},
-				{"name": "DateInterpolator", "size": 1375}
+				{
+					"name": "ArrayInterpolator",
+					"orgId": "125125",
+					"points": 500,
+					"goal": 300,
+				},
+				{
+					"name": "ColorInterpolator",
+					"orgId": "125125",
+					"points": 500,
+					"goal": 300,
+				},
+				{
+					"name": "DateInterpolator",
+					"orgId": "125125",
+					"points": 500,
+					"goal": 300,
+				}
 			]
 		},
-			{"name": "ISchedulable", "size": 1041},
-			{"name": "Parallel", "size": 5176},
-			{"name": "Pause", "size": 449},
-			{"name": "Scheduler", "size": 5593},
-			{"name": "Sequence", "size": 5534}
+			{
+				"name": "ISchedulable",
+				"orgId": "125125",
+				"points": 500,
+				"goal": 300,
+			},
+			{
+				"name": "Parallel",
+				"orgId": "125125",
+				"points": 500,
+				"goal": 300,
+			},
+			{
+				"name": "Pause",
+				"orgId": "125125",
+				"points": 500,
+				"goal": 300,
+			},
+			{
+				"name": "Scheduler",
+				"orgId": "125125",
+				"points": 500,
+				"goal": 300,
+			},
+			{
+				"name": "Sequence",
+				"orgId": "125125",
+				"points": 500,
+				"goal": 300,
+			}
 		]
 	}
 	]
