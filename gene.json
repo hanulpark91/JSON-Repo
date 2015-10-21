@@ -109,37 +109,7 @@
 					"goal": 300
 				}
 			]
-		},
-			{
-				"name": "ISchedulable",
-				"orgId": "125125",
-				"points": 500,
-				"goal": 300
-			},
-			{
-				"name": "Parallel",
-				"orgId": "125125",
-				"points": 500,
-				"goal": 300
-			},
-			{
-				"name": "Pause",
-				"orgId": "125125",
-				"points": 500,
-				"goal": 300
-			},
-			{
-				"name": "Scheduler",
-				"orgId": "125125",
-				"points": 500,
-				"goal": 300
-			},
-			{
-				"name": "Sequence",
-				"orgId": "125125",
-				"points": 500,
-				"goal": 300
-			}
+		}
 		]
 	}
 	]
