@@ -34,12 +34,14 @@
 					"name": "Carol Smith",
 					"orgId": "123",
 					"points": 500,
-					"goal": 300},
+					"goal": 300
+				},
 				{
 					"name": "Judy Miller",
 					"orgId": "123",
 					"points": 500,
-					"goal": 300},
+					"goal": 300
+				},
 				{
 					"name": "Mary Jane",
 					"orgId": "123",
@@ -80,7 +82,7 @@
 			"name": "FunctionSequence",
 			"orgId": "125125",
 			"points": 500,
-			"goal": 300,
+			"goal": 300
 		},
 		{
 			"name": "interpolate",
@@ -92,19 +94,19 @@
 					"name": "ArrayInterpolator",
 					"orgId": "125125",
 					"points": 500,
-					"goal": 300,
+					"goal": 300
 				},
 				{
 					"name": "ColorInterpolator",
 					"orgId": "125125",
 					"points": 500,
-					"goal": 300,
+					"goal": 300
 				},
 				{
 					"name": "DateInterpolator",
 					"orgId": "125125",
 					"points": 500,
-					"goal": 300,
+					"goal": 300
 				}
 			]
 		},
@@ -112,31 +114,31 @@
 				"name": "ISchedulable",
 				"orgId": "125125",
 				"points": 500,
-				"goal": 300,
+				"goal": 300
 			},
 			{
 				"name": "Parallel",
 				"orgId": "125125",
 				"points": 500,
-				"goal": 300,
+				"goal": 300
 			},
 			{
 				"name": "Pause",
 				"orgId": "125125",
 				"points": 500,
-				"goal": 300,
+				"goal": 300
 			},
 			{
 				"name": "Scheduler",
 				"orgId": "125125",
 				"points": 500,
-				"goal": 300,
+				"goal": 300
 			},
 			{
 				"name": "Sequence",
 				"orgId": "125125",
 				"points": 500,
-				"goal": 300,
+				"goal": 300
 			}
 		]
 	}
