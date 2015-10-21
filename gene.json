@@ -16,25 +16,38 @@
      ]
     },
     {
-     "name": "graph",
+     "name": "Danielle White",
+     "id": "123",
      "children": [
-      {"name": "BetweennessCentrality", "size": 3534},
-      {"name": "LinkDistance", "size": 5731},
-      {"name": "MaxFlowMinCut", "size": 7840},
-      {"name": "ShortestPaths", "size": 5914},
-      {"name": "SpanningTree", "size": 3416}
+      {
+        "name": "Carol Smith",
+        "id": "123",
+      },
+      {
+        "name": "Judy Miller",
+        "id": "123",
+      },
+      {
+        "name": "Mary Jane",
+        "id": "123",
+      }
      ]
     },
     {
-     "name": "optimization",
+      "name": "Gwen Stacy", 
+      "id": "123",
      "children": [
-      {"name": "AspectRatioBanker", "size": 7074}
+      {
+        "name": "Stephanie Troy", 
+        "id": "123",
+      }
      ]
     }
    ]
   },
   {
-   "name": "animate",
+   "name": "Ellis John",
+   "id": "123",
    "children": [
     {"name": "Easing", "size": 17010},
     {"name": "FunctionSequence", "size": 5842},
