@@ -12,7 +12,8 @@
      "children": [
       {
         "name": "Julie Hasten", 
-        "id": "00361000005eJfC"}
+        "id": "00361000005eJfC"
+      }
      ]
     },
     {
@@ -21,25 +22,25 @@
      "children": [
       {
         "name": "Carol Smith",
-        "id": "123",
+        "id": "123"
       },
       {
         "name": "Judy Miller",
-        "id": "123",
+        "id": "123"
       },
       {
         "name": "Mary Jane",
-        "id": "123",
+        "id": "123"
       }
      ]
     },
     {
-      "name": "Gwen Stacy", 
-      "id": "123",
+     "name": "Gwen Stacy", 
+     "id": "123",
      "children": [
       {
         "name": "Stephanie Troy", 
-        "id": "123",
+        "id": "123"
       }
      ]
     }
